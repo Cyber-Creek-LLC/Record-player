@@ -19,6 +19,7 @@ if (process.env.REPL_ID) {
 const client = new DiscordMusicBot();
 
 console.log("Make sure to fill in the config.js before starting the bot.");
+console.log("Made by Cyber Creek LLC.");
 
 const getClient = () => client;
 
