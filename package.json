@@ -1,7 +1,6 @@
 {
-  "name": "discord-musicbot",
-  "version": "5.0.0-beta",
-  "description": "Very simple discord music bot with the discord.js with Song Name playing. It can able to play music with the song name",
+  "name": "Record-player",
+  "version": "1.0.0-beta", "description": "Very simple discord music bot with the discord.js with Song Name playing. It can able to play music with the song name",
   "main": "index.js",
   "scripts": {
     "start": "node index",
@@ -17,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SudhanPlayz/Discord-MusicBot.git"
+    "url": "git+https://github.com/Cyber-Creek-LLC/Record-player.git"
   },
   "engines": {
     "node": ">=16.x <=16.16"
@@ -30,14 +29,14 @@
     "discord-music"
   ],
   "authors": [
-    "SudhanPlayz",
-    "DarrenOfficial"
+    "Cyber-Creek-LLC",
+    "Joseph Luis Portillo III"
   ],
-  "license": "Apache-2.0",
+  "license": "https://github.com/Cyber-Creek-LLC/Record-player/blob/main/LICENSE.md",
   "bugs": {
-    "url": "https://github.com/SudhanPlayz/Discord-MusicBot/issues"
+    "url": "https://github.com/Cyber-Creek-LLC/Record-player/issues"
   },
-  "homepage": "https://github.com/SudhanPlayz/Discord-MusicBot#readme",
+  "homepage": "https://github.com/Cyber-Creek-LLC/Record-player#readme",
   "dependencies": {
     "@discordjs/builders": "^1.4.0",
     "@discordjs/rest": "^1.5.0",
